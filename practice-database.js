@@ -1,0 +1,45 @@
+const DB_VIOLINO = [
+  {"name": "Hans Sitt op.32 book 1",
+   "type": "Study",
+   "completed": [
+     {"id": "1"},
+     {"id": "2"},
+     {"id": "3"},
+     {"id": "4"},
+     {"id": "5"},
+     {"id": "6"},
+     {"id": "7"},
+     {"id": "8"},
+     {"id": "9"},
+     {"id": "10"},
+     {"id": "11"},
+     {"id": "12"},
+     {"id": "13"},
+     {"id": "14"},
+     {"id": "15"},
+   ],
+   "current": [
+     {"id": "16"},
+     {"id": "17"},
+     {"id": "18"},
+   ]
+  },
+  {"name": "Sevcik Violin Techniques book 1",
+   "type": "Study",
+   "completed": [
+     {"id": "1"},
+   ],
+   "current": [
+     {"id": "2"},
+   ],
+  },
+  {"name": "Barbara Barber solos vol 1",
+   "type": "Repertoire",
+   "completed": [],
+   "current": [
+     {"id": "8-Marche"},
+     {"id": "9-Musette"},
+     {"id": "10-Giguetta"},
+   ],
+  },
+];
